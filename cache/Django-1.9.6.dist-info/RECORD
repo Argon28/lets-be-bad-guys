@@ -1,4 +1,4 @@
-../../../bin/django-admin.py,sha256=OOv0QKYqhDD2O4X3HQx3gFFQ-CC7hSLnWuzZnQXeiiA,115
+../../bin/django-admin.py,sha256=OOv0QKYqhDD2O4X3HQx3gFFQ-CC7hSLnWuzZnQXeiiA,115
 Django-1.9.6.dist-info/DESCRIPTION.rst,sha256=OCTuuN6LcWulhHS3d5rfjdsQtW22n7HENFRh6jC6ego,10
 Django-1.9.6.dist-info/LICENSE.txt,sha256=uEZBXRtRTpwd_xSiLeuQbXlLxUbKYSn5UKGM0JHipmk,1552
 Django-1.9.6.dist-info/METADATA,sha256=EcNN-aAkW6pPvekw6D371QoW8EN2rEq-vZZ36YUWM3g,1250
@@ -3115,7 +3115,7 @@ django/views/generic/dates.py,sha256=8Yh1VXL6Alqbzj7XSWclHYOpsLhRDE3pVCL06z7ruh8
 django/views/generic/detail.py,sha256=_l0Uj6iq9DQgAoglCL07ij9NUP1xQqtbzHVPOejj2lE,6914
 django/views/generic/edit.py,sha256=JHHut5ql3tkxEKC3uEY1oXB03J8o3ok8n2HMawzXQ7s,11262
 django/views/generic/list.py,sha256=PZDFMJ7-q3F7HYLnGI8eoTeiL_jto3q0hUS-rq6jO7c,7630
-../../../bin/django-admin,sha256=Q_EeC564v1Ki-mMK4FM8CeJg3CYUdhAZWqhoUnecpw0,288
+../../bin/django-admin,sha256=Q_EeC564v1Ki-mMK4FM8CeJg3CYUdhAZWqhoUnecpw0,288
 Django-1.9.6.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
 django/utils/text.pyc,,
 django/conf/locale/__init__.pyc,,
@@ -3651,7 +3651,7 @@ django/contrib/gis/db/backends/mysql/__init__.pyc,,
 django/contrib/auth/decorators.pyc,,
 django/contrib/contenttypes/__init__.pyc,,
 django/conf/locale/hr/__init__.pyc,,
-../../../bin/django-admin.pyc,,
+../../bin/django-admin.pyc,,
 django/dispatch/__init__.pyc,,
 django/contrib/sites/requests.pyc,,
 django/contrib/gis/db/backends/spatialite/schema.pyc,,
