@@ -1,0 +1,16 @@
+tempstorage/TemporaryStorage.py,sha256=59aF1e3T8ImIAOBEsu2WRlyQYr1LABu6cJ2yH0o48-U,12790
+tempstorage/__init__.py,sha256=uCqDltEFnY1CRS_L4QEiJtWY_1azBaXAYHF_3Y55DDg,636
+tempstorage/component.xml,sha256=Taybw3xYErRhTbIn1JuIANYOMdGVthVWbP_7wvn2858,403
+tempstorage/config.py,sha256=UFREYGlbObxTMLpQWtuiPlNVW3xNU0Ub12oRFnTKmKI,847
+tempstorage/tests/__init__.py,sha256=k2T1QF0L1JYbsyJpTujcEjfIMURykv5Lljl5cM6kB2c,636
+tempstorage/tests/testTemporaryStorage.py,sha256=nA6JdPrG0MFe3VCzJxZpuWvcJqNs7wBtUGaNiTBK304,7698
+tempstorage-4.0.1.dist-info/METADATA,sha256=jV1OJqkAhUocVDjEzXdErvZHM7vWk2UDMuj_ypQArSY,2593
+tempstorage-4.0.1.dist-info/RECORD,,
+tempstorage-4.0.1.dist-info/WHEEL,sha256=gduuPyBvFJQSQ0zdyxF7k0zynDXbIbvg5ZBHoXum5uk,110
+tempstorage-4.0.1.dist-info/top_level.txt,sha256=oITnhpDy677UbQg9y2MfvwzDSpcwnP_Ts4m8an_813I,12
+tempstorage-4.0.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+tempstorage/TemporaryStorage.pyc,,
+tempstorage/__init__.pyc,,
+tempstorage/tests/__init__.pyc,,
+tempstorage/config.pyc,,
+tempstorage/tests/testTemporaryStorage.pyc,,

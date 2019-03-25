@@ -1,0 +1,16 @@
+z3c.objpath-1.2-py2.7-nspkg.pth,sha256=Ou9y0X2aSJC-56yWL7VjITZxnfX6slYJCSxhMSKad6I,524
+z3c/objpath/README.rst,sha256=kvLEP7xgfQzTMN6jpTgIboub5oOfOWlJJNp08_tJ02M,2543
+z3c/objpath/__init__.py,sha256=g9FoQmvq_QPk2AOaWo0cIBETQEIdylsoQbuNWsKHDms,152
+z3c/objpath/interfaces.py,sha256=X04CjZ1nV0HIVm2_Py2I32YqfRJnXpvNNzNjKjyHU50,804
+z3c/objpath/path.py,sha256=PD1SWQXX6ETAmZWQITbdNy7AUf708URX4RMdKvIlRdQ,906
+z3c/objpath/tests.py,sha256=BjFWJABPJxKRnWlPaWHkPZmfCgqvN5nVdhuNP5dHQ4g,632
+z3c.objpath-1.2.dist-info/METADATA,sha256=lcflGfiUFQcQtz6c1JxgaEOe8RQQ8b4XNXsqs-XSs48,3641
+z3c.objpath-1.2.dist-info/RECORD,,
+z3c.objpath-1.2.dist-info/WHEEL,sha256=1GbQwWo-bz5MQ7TWgxmoj0u3qc5GM8qVkJvIGW53qLM,93
+z3c.objpath-1.2.dist-info/namespace_packages.txt,sha256=4IdyINjld7m2QfMrXUzjX5iV4pLTBx0DBASmKaA1wJc,4
+z3c.objpath-1.2.dist-info/top_level.txt,sha256=4IdyINjld7m2QfMrXUzjX5iV4pLTBx0DBASmKaA1wJc,4
+z3c.objpath-1.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+z3c/objpath/interfaces.pyc,,
+z3c/objpath/path.pyc,,
+z3c/objpath/__init__.pyc,,
+z3c/objpath/tests.pyc,,

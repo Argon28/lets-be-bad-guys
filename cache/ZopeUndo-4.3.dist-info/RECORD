@@ -1,0 +1,13 @@
+ZopeUndo/Prefix.py,sha256=54AVoKK-x4_pZJHexqIoe63Kv-StYpxWFWegKMrJfqs,1606
+ZopeUndo/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ZopeUndo/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ZopeUndo/tests/test_prefix.py,sha256=-wq5EWrqqiBHjneD0uNbythU6Acvd1ZBkNDrljRztrQ,1927
+ZopeUndo-4.3.dist-info/METADATA,sha256=iZ2W7XsZ5JEGOUHG-PVo1RtpA4ho-hH99mCCCR81fW4,1948
+ZopeUndo-4.3.dist-info/RECORD,,
+ZopeUndo-4.3.dist-info/WHEEL,sha256=1GbQwWo-bz5MQ7TWgxmoj0u3qc5GM8qVkJvIGW53qLM,93
+ZopeUndo-4.3.dist-info/top_level.txt,sha256=XuhAAIkEMuj6lTSA_KzeAsMHvw43yOn-8LvCChFd7Lo,9
+ZopeUndo-4.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+ZopeUndo/tests/__init__.pyc,,
+ZopeUndo/__init__.pyc,,
+ZopeUndo/tests/test_prefix.pyc,,
+ZopeUndo/Prefix.pyc,,
